@@ -1,0 +1,16 @@
+fastapi
+pydantic
+numpy
+joblib
+pandas
+requests
+streamlit
+pygame
+matplotlib
+uvicorn
+streamlit_autorefresh
+openpyxl
+scikit-learn
+xgboost
+lightgbm
+imblearn

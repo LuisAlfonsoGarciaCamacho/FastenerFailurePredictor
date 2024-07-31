@@ -1,0 +1,8 @@
+src/data
+src/new_data
+modelos/*
+docs\Documentación códigos
+output/*
+src/EDA/angulovspar/*
+src/EDA/generales/*
+src/EDA/not_ok/*
