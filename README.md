@@ -1,5 +1,5 @@
 # FastenerFailurePredictor
-
+![Project Demonstration](https://github.com/LuisAlfonsoGarciaCamacho/FastenerFailurePredictor/blob/20d003d3b2911a9bceb1ffc467c46f2feb447238/img/demostration.gif)
 This is an advanced monitoring solution for bolt fastening processes. It employs machine learning techniques to detect potential failures by analyzing torque and angle measurements in real-time. This project aims to enhance quality control and reduce failures in manufacturing processes involving bolt tightening.
 
 ## Key Features
